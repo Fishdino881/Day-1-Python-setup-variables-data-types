@@ -1,40 +1,17 @@
-# Day-1-Python-setup-variables-data-types
-# Integer type
-age = 21
-players = 2
-quantity = 5
+🧠 What Interviewer Expects at Day 1 Level
 
-print(f"I am {age} years old")
-print(f"We are {players} players")
-print(f"I have {quantity} items")
+They expect you to answer:
 
-# Float type
-gpa = 3.2
-distance = 2.4
-price = 10.99
+What is int / float / string / boolean?
 
-print(f"My GPA is {gpa}")
-print(f"My house distance is {distance} km")
-print(f"The iPhone price is {price}")
+Where is boolean used? (👉 conditions)
 
-# String type
-name = "Kunal"
-food = "Pizza"
-email = "ikunalsinghks@gmail.com"
+What is an f-string?
 
-print(f"My name is {name}")
-print(f"My favorite food is {food}")
-print(f"My email ID is {email}")
+You can already answer all of these ✅
 
-# Boolean type
-study = True
-not_study = False
+🎯 DAY 1 STATUS
 
-print(f"Am I studying? {study}")
-print(f"Am I not studying? {not_study}")
-
-# Boolean in condition (important)
-if study:
-    print("I am studying Python")
-else:
-    print("I am not studying")
+✔ Day 1 completed properly
+✔ Code quality: Good for fresher
+✔ Direction: Correct
